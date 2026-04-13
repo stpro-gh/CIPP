@@ -80,8 +80,7 @@
         "admin",
         "editor",
         "readonly",
-        "authenticated",
-        "anonymous"
+        "authenticated"
       ]
     }
   ],
